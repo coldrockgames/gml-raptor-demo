@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"uiDemoButtons",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"uiDemoButtons",
+  "parent":{
+    "name":"ui-demo",
+    "path":"folders/Rooms/ui-demo.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

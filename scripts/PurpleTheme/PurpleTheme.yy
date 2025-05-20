@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"PurpleTheme",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"PurpleTheme",
+  "parent":{
+    "name":"themes",
+    "path":"folders/_gml_raptor_packages_/gml-raptor-ui/themes.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

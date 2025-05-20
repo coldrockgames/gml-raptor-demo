@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ParticleTests",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ParticleTests",
+  "parent":{
+    "name":"dev-playground",
+    "path":"folders/Rooms/dev-playground.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shd_outline",
+  "name":"shd_outline",
+  "parent":{
+    "name":"gml-outline-shader",
+    "path":"folders/_gml_raptor_packages_/gml-outline-shader.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

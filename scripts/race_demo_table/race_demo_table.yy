@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"race_demo_table",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"race_demo_table",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

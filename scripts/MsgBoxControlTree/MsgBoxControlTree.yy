@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"MsgBoxControlTree",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"MsgBoxControlTree",
+  "parent":{
+    "name":"raptormessagebox",
+    "path":"folders/_gml_raptor_/UI/controls/raptormessagebox.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
