@@ -7,8 +7,10 @@ Feel free to clone, examine and experiment with the raptor features shown in thi
 
 ### This is not even close to a full overview of raptor's features!
 
-To learn more about the raptor framework, check out the extensive [wiki-documentation](https://github.com/coldrockgames/gml-raptor/wiki) of the publich [gml-raptor](https://github.com/coldrockgames/gml-raptor) repository!
+To learn more about the raptor framework, check out the extensive [wiki-documentation](https://github.com/coldrockgames/gml-raptor/wiki) of the public [gml-raptor](https://github.com/coldrockgames/gml-raptor) repository!
 
 HAVE FUN!\
 MAKE GAMES!\
 [coldrock.games](https://www.coldrock.games)
+
+<p align="center"><img src="https://github.com/user-attachments/assets/c31ceb37-94d0-438f-937a-57a15979d148" style="display:block; margin:auto;"></p>
