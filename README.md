@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/coldrockgames/gml-raptor/blob/dev/_assets_/logos_and_banners/2025/gml-raptor-anim-trans.gif" style="display:block; margin:auto; width:438px"></p>
+<p align="center"><img src="https://github.com/coldrockgames/gml-raptor/blob/dev/_assets_/gml-raptor-anim-trans.gif" style="display:block; margin:auto; width:438px"></p>
 
 # gml-raptor-demo
 The Demo/Playground project for raptor, which can be seen at [itch.io](https://grisgram.itch.io/gml-raptor).
